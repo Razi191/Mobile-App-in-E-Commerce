@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SUPMART for Clients</string>
+    <string name="select">Select a Store</string>
+    <string name="scan">Add Items</string>
+    <string name="enter_barcode">Enter a barcode</string>
+    <string name="add_item">Add item</string>
+    <string name="done">Done</string>
+    <string name="report">Report Price</string>
+    <string name="information">Information:</string>
+    <string name="store_msg">The store was reported!</string>
+    <string name="ok">OK!</string>
+    <string name="enter_count">Enter count</string>
+    <string name="count">Count:</string>
+    <string name="scan_item">Scan</string>
+</resources>

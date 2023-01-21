@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SUPMART for Managers</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="select">Select a Store</string>
+    <string name="password">Password</string>
+    <string name="done">Done</string>
+    <string name="store_name">Store Name</string>
+    <string name="warnings">Total Warnings</string>
+    <string name="view_items">View Items</string>
+    <string name="add_item">Add Item</string>
+    <string name="update_item">Update Item</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="store_items">Store Items</string>
+    <string name="item">Item</string>
+    <string name="barcode">Barcode</string>
+    <string name="price">Price</string>
+    <string name="view_reports">View Reports</string>
+    <string name="reported_price">Reported</string>
+    <string name="reports">Reports</string>
+    <string name="scan_item">Scan</string>
+</resources>
